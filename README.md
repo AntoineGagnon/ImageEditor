@@ -1,6 +1,7 @@
 # ImageEditor
 
-This is my 2017 university group projec made with [Cyril Nb]
+This is my 2017 university group projec made with [Cyril Nb].
+
 This application was made to combine our knowledge of Android development with image processing.
 
 # Documentation
